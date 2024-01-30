@@ -12,3 +12,5 @@ And the queries showcases are saved in the file:
 "COVID SQL Server Portfolio.sql"
 
 Only the SQL file is uploaded into the Github, as other files are too large.
+
+Credits give to https://www.youtube.com/@AlexTheAnalyst
