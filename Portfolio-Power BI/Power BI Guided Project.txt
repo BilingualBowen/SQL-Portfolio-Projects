@@ -1,0 +1,20 @@
+The original video is from YouTuber - Alex The Analyst:
+https://youtu.be/pixlHHe_lNQ?si=_Kyde4KENAaQ8YxJ
+
+The original data file is from:
+https://github.com/AlexTheAnalyst/Power-BI/blob/main/Power%20BI%20-%20Final%20Project.xlsx
+
+Taking notes while transform data into Power BI before visualizations:
+
+1. Load file and click "Transform Data".
+2. Delete empty columns.
+3. For column Q1, right click > Split Column by Delimeter > --Custom-- > ' (Please Specify)' > Split. Remove the second splitted out column.
+4. For column Q5, right click > Split Column by Delimeter > Colon, delete the right splitted column.
+5. For column Q3, make a duplicate column for below steps.
+   Split Column > By Digit to Non-digit, delete the 3rd column with all 'k' values.
+   For the 2nd column, use 'replace value' to remove '-', 'k' and '+' (to the maximum number 225).
+   (Menu)Add Column > Custom Column > New column name > 'Average Salary', write query to calculate from Q3.Copy1 and Q3.Copy2 to calculate.
+   Move the 'Average Salary' by Q3 column.
+6. For column Q11 abd Q4, do the same as for column Q1.
+7. (Menu)Home > Close & Apply.
+
