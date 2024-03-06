@@ -1,7 +1,7 @@
 # Overview
 
 This directory stores all the raw files and materials learned from the [Data Analyst Bootcamp series](https://youtube.com/playlist?list=PLUaB-1hjhk8FE_XZ87vPPSfHqb6OcM0cF&si=GmPpcMm-7PEfBxwT). 
-Created by YouTuber [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst). The codes are implemented and stored in each directory based on different topics. Raw files, 
+Created by YouTuber [Alex The Analyst](https://www.youtube.com/@AlexTheAnalyst). Codes are implemented and stored in each directory based on different topics. Raw files, 
 including Excel files, Power BI (.pbix) files, need to be downloaeded in the local machine for viewing.
 
 
